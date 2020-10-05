@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll-medus"
+gem "jekyll-menus"
 gem 'github-pages', group: :jekyll_plugins
 gemspec
 
