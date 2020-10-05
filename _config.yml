@@ -1,5 +1,4 @@
 theme: jekyll-theme-leap-day
-remote_theme: jekyll-menus
 baseurl: "https://github.com/aiclouds/jekyll-menus/"
 plugins:
 - github-pages
